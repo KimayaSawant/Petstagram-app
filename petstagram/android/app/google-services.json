@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784000467297",
+    "project_id": "petinsta-d2f1a",
+    "storage_bucket": "petinsta-d2f1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784000467297:android:5abf2ea139d18dfa850520",
+        "android_client_info": {
+          "package_name": "com.example.petstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRG342YEmeVzpQ3FdHNqeyDg3JHSXQ-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
